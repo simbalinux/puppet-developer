@@ -1,2 +1,3 @@
 # puppet-developer
-puppet lessons
+
+Testing and deploying puppet modules
